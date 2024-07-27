@@ -1,0 +1,11 @@
+{
+  "name": "myrandomthoughts",
+  "version": "1.0.0",
+  "description": "The random idea that come through my mind, I try to capture them",
+  "main": "index.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "author": "adminchatter",
+  "license": "MIT"
+}
