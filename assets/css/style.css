@@ -1,3 +1,49 @@
-#main-nav{
-    background-color: #2b73af;
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+img{
+    background-blend-mode: normal;
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#title h1{
+    color: #2b73af;
+}
+
+#infoText {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#imageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imageContainer img{
+    height: 200px;
+}
+
+#ideas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ideas img{
+    height: 200px;
+}
+
+#ideas p{
+    height: 48px;
 }
