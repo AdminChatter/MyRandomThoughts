@@ -1,3 +1,11 @@
+body{
+    background-image: url(../imgs/Blueskybackground1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 footer{
     display: flex;
     justify-content: center;
@@ -5,7 +13,7 @@ footer{
 }
 
 img{
-    background-blend-mode: normal;
+    background-blend-mode: multiply;
 }
 
 #title{
@@ -15,7 +23,11 @@ img{
 }
 
 #title h1{
-    color: #2b73af;
+    background: linear-gradient(90deg, #F5F5F5, #A8E2FF, #F5F5F5);
+    background-blend-mode: multiply;
+    color: white; /* or another contrasting color for the text */
+    padding: 20px;
+    text-align: center;
 }
 
 #infoText {
